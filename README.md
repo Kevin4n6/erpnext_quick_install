@@ -19,7 +19,7 @@ and then reboot your machine
 
 1. Clone the Repo:
 ```
-git clone https://github.com/flexcomng/erpnext_quick_install.git
+git clone https://github.com/kevin4n6/erpnext_quick_install.git
 ```
 2. navigate to the folder:
 ```
@@ -35,6 +35,7 @@ source erpnext_install.sh
 ```
 # Compatibility
 
+Ubuntu 24.04 LTS,
 Ubuntu 22.04 LTS,
 Ubuntu 20.04 LTS
 
